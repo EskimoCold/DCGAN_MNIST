@@ -1,0 +1,2 @@
+# DCGAN_MNIST
+DCGAN on TF for MNIST
