@@ -300,5 +300,5 @@ with imageio.get_writer(anim_file, mode='I') as writer:
 import tensorflow_docs.vis.embed as embed
 embed.embed_file(anim_file)
 ```
-![me](https://github.com/EskimoCold/DCGAN_MNIST/blob/dev/Training%20gif%20animation.gif)
+![me](https://github.com/EskimoCold/DCGAN_MNIST/blob/main/Training%20gif%20animation.gif)
 
