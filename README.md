@@ -1,5 +1,17 @@
 # Deep Convolutional Generative Adversarial Network(DCGAN)
 On Tensorflow with MNIST dataset
+<hr>
+
+
+### What is a GAN?
+
+Generative Adversarial Network or GANS is a Generative modeling framework that has two main components- a Discriminator and a Generator- both of which are primarily modeled using Neural Networks. The Generator takes the noise as input and generates some data samples while the Discriminators tries to classify those samples from the real samples. This causes a two player game where the Generator tries to generate samples that are indistinguishable from thereal data samples. The process continues till no one can get better.
+
+
+![image](https://user-images.githubusercontent.com/52078955/117543934-abf36400-b027-11eb-8d05-b772160e999a.png)
+
+
+![me](https://github.com/kpandey008/dcgan/blob/master/assets/DCGAN.png)
 
 ## Imports and downloadings
 first of all, we need to download all modules
